@@ -4,4 +4,4 @@
 
 # This is a two-player game
 
-# Live site: [here](https://dhruthik0.github.io/tic-tac-toe/)
+
